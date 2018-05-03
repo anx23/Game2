@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: dadc4b60a5e5d3b468858fd52b0438b9
+timeCreated: 1523378517
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BLUEFISH SCRATCHED Demo
+  fontNames:
+  - BLUEFISH SCRATCHED Demo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: efa46ec74e890fc4d83c6c37aafcfdba, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
